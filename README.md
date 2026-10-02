@@ -70,11 +70,11 @@ However, extracting data from Goofish is notoriously difficult:
   </tr>
   <tr>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
-      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/unitbytes/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B & MOQ</span><br>
+      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B & MOQ</span><br>
       <span style="color:#64748B;font-size:11px">Verified Suppliers & Audits</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
-      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Domestic Factory Prices</span><br>
+      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/unitbytes/1688-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Domestic Factory Prices</span><br>
       <span style="color:#64748B;font-size:11px">SKU matrices & FBA specs</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
